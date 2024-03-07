@@ -1,8 +1,8 @@
 {
   "name": "data-harmonizer",
-  "version": "1.6.5",
+  "version": "DZIF1.0.0",
   "description": "A standardized spreadsheet editor and validator that can be run offline and locally",
-  "repository": "git@github.com:cidgoh/DataHarmonizer.git",
+  "repository": "git@github.com:qbic-projects/DZIFDataHarmonizer.git",
   "license": "MIT",
   "files": [
     "./lib/dist"
