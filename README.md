@@ -248,3 +248,5 @@ For more information about the DataHarmonizer, it's templates, and how to use th
 
 DataHarmonizer javascript, python and other code not mentioned in the Acknowledgement above is covered by the [MIT](LICENSE) license.
 
+# Funding
+The adaptation of DataHarmonizer for the DZIF microbial OMICs database was funded by the German Center for Infection Research.
